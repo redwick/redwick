@@ -5,10 +5,10 @@
 - - todo angular proxy
 - - todo custom video player
 - Scala
-- - [Http Service Akka/Pekko Basic with Circe.IO and Docker Config](https://github.com/redwick/scala-http-service-basic)
-- - [Http Service sample using Pekko/Akka Framework with KeyCloak SSO Integration](https://github.com/redwick/scala-http-service-keycloak)
+- - [Http Service basic sample using Akka/Pekko with Circe.IO and Docker Config](https://github.com/redwick/scala-http-service-basic)
+- - [Http Service sample using Pekko/Akka Framework with KeyCloak SSO Integration and Docker Config](https://github.com/redwick/scala-http-service-keycloak)
 - - todo scala httpservice with s3
-- - [Http Service Akka/Pekko with Mail Client, PosgresSQL HikariCP Slick, Circe.IO and Docker Config](https://github.com/redwick/scala-http-service)
+- - [Http Service sample using Akka/Pekko with Mail Client, PosgresSQL HikariCP Slick, Circe.IO and Docker Config](https://github.com/redwick/scala-http-service)
 - Rust
 - - todo basic http service
 - - todo http service with postgresql
