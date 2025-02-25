@@ -4,4 +4,4 @@
 - - [Http Service Akka/Pekko with Mail Service, PosgresSQL HikariCP Slick, Circe.IO, Docker](https://github.com/redwick/scala-http-service)
 - Rust
 - NestJS
-- - [Http Service wwith Mail Service and FileUpload feature](https://github.com/redwick/nestjs-mail-service)
+- - [Http Service wwith Mail Service and File Server feature](https://github.com/redwick/nestjs-mail-service)
