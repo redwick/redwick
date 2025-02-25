@@ -2,6 +2,7 @@
 - Angular
 - Scala
 - - [Http Service Akka/Pekko Basic with Circe.IO and Docker Config](https://github.com/redwick/scala-http-service-basic)
+- - [Scala HttpService sample using Pekko/Akka Framework with KeyCloak SSO Integration](https://github.com/redwick/scala-http-service-keycloak)
 - - [Http Service Akka/Pekko with Mail Client, PosgresSQL HikariCP Slick, Circe.IO and Docker Config](https://github.com/redwick/scala-http-service)
 - Rust
 - NestJS
