@@ -1,5 +1,4 @@
-## Hi there👋! 
-## Here is my list of sample repos for quick project start.
+## Hi there👋! Here is my list of sample repos for quick project start.
 - Angular
 - Java/Scala
 - Rust
