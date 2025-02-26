@@ -7,7 +7,7 @@
 - Scala
 - - [Http Service basic sample using Akka/Pekko with Circe.IO and Docker Config](https://github.com/redwick/scala-http-service-basic)
 - - [Http Service sample using Pekko/Akka Framework with KeyCloak SSO Integration and Docker Config](https://github.com/redwick/scala-http-service-keycloak)
-- - todo scala httpservice with s3
+- - [Scala Http Service sample using Pekko/Akka Framework with AWS S3 Integration](https://github.com/redwick/scala-http-service-aws-s3)
 - - [Http Service sample using Akka/Pekko with Mail Client, PosgresSQL HikariCP Slick, Circe.IO and Docker Config](https://github.com/redwick/scala-http-service)
 - Rust
 - - todo basic http service
