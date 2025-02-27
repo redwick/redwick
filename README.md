@@ -17,3 +17,5 @@
 - - [Http Service with Mail Client and File Server feature](https://github.com/redwick/nestjs-mail-service)
 - - todo matrix synapse bot
 ## Other tools that may be usefull
+- C#
+- - [Tool to find all QR-codes in PDF and add href to them making clickable](https://github.com/redwick/qr-code-to-href)
