@@ -1,7 +1,6 @@
 ## Hi there👋! Here is my list of sample repos for quick project start.
 - Angular
-- - todo angular keycloak
-- - todo angular s3 cloud
+- - [Angular Keycloak SSO Integration Smaple with Http Interceptor and Auth Guard](https://github.com/redwick/angular-keycloak.git)
 - - todo angular proxy
 - - todo custom video player
 - Scala
