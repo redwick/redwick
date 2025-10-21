@@ -13,7 +13,7 @@
 - - todo http service with postgresql
 - - todo telegram bot
 - - angular deployment service from github
-  - [Windows Service for keyboard hotkeys](https://github.com/redwick/hk)
+- - [Windows Service for managing custom keyboard hotkeys](https://github.com/redwick/hk)
 - NestJS
 - - [Http Service with Mail Client and File Server feature](https://github.com/redwick/nestjs-mail-service)
 - - todo matrix synapse bot
