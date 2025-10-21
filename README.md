@@ -26,7 +26,10 @@ Hi there! 👋 This is my curated list of sample repositories to kickstart your 
 - *🌐 Basic HTTP Service (Coming Soon)*
 - *🗄️ HTTP Service with PostgreSQL (Coming Soon)*
 - *🤖 Telegram Bot (Coming Soon)*
-- *⚙️ Angular Deployment Service from GitHub (Coming Soon)*
+- **[🔄 Auto-Deploy Angular Service](https://github.com/redwick/rust-deploy-web)**  
+  Monitors GitHub for new releases, automatically pulls, builds Angular apps, and sends Telegram notifications.
+- **[🚀 Remote Server Deployer](https://github.com/redwick/rust-deploy-server)**  
+  Executes deployment scripts (.sh) on remote servers when it detects updates in GitHub repositories.
 - **[⌨️ Windows Hotkey Manager](https://github.com/redwick/hk)**  
   A Windows service for managing custom keyboard hotkeys and shortcuts.
 
